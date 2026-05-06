@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Yatri Mitra</string>
+    <string name="welcome">Welcome, Yatri!</string>
+    <string name="tracking">Tracking</string>
+    <string name="profile">Profile</string>
+    <string name="routes">Routes</string>
+    <string name="settings">Settings</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="eta">ETA</string>
+    <string name="speed">Speed</string>
+    <string name="active_vehicles">Active Vehicles</string>
+</resources>

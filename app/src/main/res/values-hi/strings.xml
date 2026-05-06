@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">यात्री मित्र</string>
+    <string name="welcome">स्वागत है, यात्री!</string>
+    <string name="tracking">ट्रैकिंग</string>
+    <string name="profile">प्रोफ़ाइल</string>
+    <string name="routes">मार्ग</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="login">लॉगिन</string>
+    <string name="register">रजिस्टर</string>
+    <string name="email">ईमेल</string>
+    <string name="password">पासवर्ड</string>
+    <string name="full_name">पूरा नाम</string>
+    <string name="confirm_password">पासवर्ड की पुष्टि करें</string>
+    <string name="eta">आगमन का समय</string>
+    <string name="speed">गति</string>
+    <string name="active_vehicles">सक्रिय वाहन</string>
+</resources>
